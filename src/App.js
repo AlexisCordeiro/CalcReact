@@ -4,7 +4,7 @@ import Calc from './components/Calc/calc';
 const App = () => {
   return (
     <div>
-      <title>Calculadora do Aléxis</title>
+      <h1>Calculadora do Aléxis</h1>
       <Calc />
     </div>
   );
